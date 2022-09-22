@@ -7,7 +7,7 @@
 
 <p>  
   
-  I'm graduating in systems analysis and development.
+  I'm majoring in system analysis and development.
   - 🌱 I’m currently work at Compart Marketing e Tecnologia;
   - 👯 I'm mobile developer pleno;
   - 📫 Feel free to call me.
