@@ -26,7 +26,20 @@
 ### _Languages and Tools:_
 
 <p align="left">
-	
+
+<a href="https://flutter.dev/" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
+</a>
+	<a href="https://angular.io/guide/what-is-angular" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="nestjs" width="40" height="40"/> 
+</a>
+	</a>
+	<a href="https://angular.io/guide/what-is-angular" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> 
+</a>
 <a href="https://angular.io/guide/what-is-angular" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> 
 </a>
@@ -45,12 +58,7 @@
 <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
 </a>
-<a href="https://flutter.dev/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
-</a>
+
 
 </p>
 
