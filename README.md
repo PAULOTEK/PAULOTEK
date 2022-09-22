@@ -33,12 +33,15 @@
 <a href="https://dart.dev/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
 </a>
-	<a href="https://angular.io/guide/what-is-angular" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/nestjs.png" alt="nestjs" width="40" height="40"/> 
+	<a href="https://nestjs.com/" target="_blank"> 
+	<img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
 </a>
-	</a>
-	<a href="https://angular.io/guide/what-is-angular" target="_blank"> 
+</a>
+	<a href="https://nodejs.org/en/" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> 
+</a>
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> 
+	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
 </a>
 <a href="https://angular.io/guide/what-is-angular" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> 
@@ -55,10 +58,6 @@
 <a href="https://www.w3schools.com/whatis/whatis_js.asp" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/
 </a>
-<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="40" height="40"/>
-</a>
-
 
 </p>
 
