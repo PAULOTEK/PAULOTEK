@@ -10,7 +10,7 @@
   I have a degree in systems analysis and development.
   - 🌱 I’m currently work at Compart Marketing e Tecnologia;
   - 👯 I'm specializing to become a data engineer.;
-  - 📫 Feel free to call me.
+  
 
 </p>
 
@@ -18,7 +18,7 @@
 
 ### _Connect with me:_
   
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-dias-farias-8b508a146/)
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-8b508a146/)
   [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pauloalexandre820@gmail.com)
   
 <h1></h1>
