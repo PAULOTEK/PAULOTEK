@@ -9,7 +9,7 @@
   
   I have a degree in systems analysis and development.
   - 🌱 I’m currently work at Compart Marketing e Tecnologia;
-  - 👯 I'm specializing to become a data engineer.;
+  - 👯 I'm specializing to become a data engineer;
   
 
 </p>
