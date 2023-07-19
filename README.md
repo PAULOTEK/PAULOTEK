@@ -27,6 +27,21 @@
 
 <p align="left">
 	
+<a href="https://cloud.google.com/docs?hl=pt-br" target="_blank"> 
+	<img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png
+" alt="Google Cloud" width="40" height="40"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank"> 
+	<img src="https://img.icons8.com/?size=512&id=81727&format=png
+" alt="Azure" width="40" height="40"/>
+</a>
+
+<a href="https://docs.oracle.com/en/java/" target="_blank"> 
+	<img src="https://img.icons8.com/?size=512&id=13679&format=png
+" alt="Java" width="40" height="40"/>
+</a>
+
 <a href="https://www.python.org" target="_blank"> 
 	<img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="python" width="40" height="40"/>
 </a>
