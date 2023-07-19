@@ -26,7 +26,7 @@
 ### _Languages and Tools:_
 
 <p align="left">
-<a href="https://flutter.dev/](https://www.python.org" target="_blank"> 
+<a href="https://www.python.org" target="_blank"> 
 	<img src="https://icons8.com.br/icon/Rc0Xn5AtE8kX/python" alt="flutter" width="40" height="40"/>
 </a>
 
