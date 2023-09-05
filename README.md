@@ -8,7 +8,7 @@
 <p>  
   
   I have a degree in systems analysis and development.
-  - 🌱 I’m currently work at Compart Marketing e Tecnologia;
+  - 🌱 I'm currently working at I'm looking to work with DevOps;
   - 👯 I'm specializing to become a data engineer;
   
 
