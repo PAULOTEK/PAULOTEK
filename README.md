@@ -27,7 +27,7 @@
 
 <p align="left">
  <a href="https://registry.terraform.io/" target="_blank"> 
-	<img src="https://icons8.com.br/icon/kEkT1u7zTDk5/terraform.png" alt="Terraform" width="40" height="40"/>
+	<img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" alt="Terraform" width="40" height="40"/>
 </a>
 	
  <a href="https://kubernetes.io/pt-br/" target="_blank"> 
