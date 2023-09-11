@@ -9,7 +9,7 @@
   
   I have a degree in systems analysis and development.
   - 🌱 I'm currently working at I'm looking to work with DevOps;
-  - 👯 I'm specializing to become a data engineer;
+  - 👯 I'm specializing to become a MBA em DevOps, DevSecOps e Cloud;
   
 
 </p>
