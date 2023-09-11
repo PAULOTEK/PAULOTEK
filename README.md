@@ -26,6 +26,13 @@
 ### _Languages and Tools:_
 
 <p align="left">
+ <a href="https://registry.terraform.io/" target="_blank"> 
+	<img src="https://icons8.com.br/icon/kEkT1u7zTDk5/terraform.png" alt="Terraform" width="40" height="40"/>
+</a>
+	
+ <a href="https://kubernetes.io/pt-br/" target="_blank"> 
+	<img src="https://icons8.com.br/icon/cvzmaEA4kC0o/kubernetes" alt="Kubernets" width="40" height="40"/>
+</a>
 	
 <a href="https://cloud.google.com/docs?hl=pt-br" target="_blank"> 
 	<img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" alt="Google Cloud" width="40" height="40"/>
