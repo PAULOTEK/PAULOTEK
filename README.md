@@ -72,13 +72,6 @@
 	<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/> 
 </a>
 
-<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
 
 <a href="https://www.w3schools.com/whatis/whatis_js.asp" target="_blank"> 
 	<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/
