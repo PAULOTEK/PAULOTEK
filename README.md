@@ -7,9 +7,9 @@
 
 <p>  
   
-  I have a degree in systems analysis and development.
-  - 🌱 I'm currently working at I'm looking to work with DevOps;
-  - 👯 I'm specializing to become a MBA em DevOps, DevSecOps e Cloud;
+I have a degree in systems analysis and development.
+    - 🌱 I am currently working as a senior Flutter mobile software engineer;
+    - 👯 I'm specializing in MBA computer engineering;
   
 
 </p>
