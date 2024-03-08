@@ -8,8 +8,8 @@
 <p>  
   
 I have a degree in systems analysis and development.
-    - 🌱 I am currently working as a senior Flutter mobile software engineer;
-    - 👯 I'm specializing in MBA computer engineering;
+    - 🌱 I am currently working as a Sre DevOps Analyst;;
+    - 👯 I'm specializing in MBA DevOps devSecOps cloud engineering;
   
 
 </p>
