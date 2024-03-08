@@ -8,7 +8,7 @@
 <p>  
   
 I have a degree in systems analysis and development.
-    - 🌱 I am currently working as a Sre DevOps Analyst;;
+    - 🌱 I am currently working as a Sre DevOps Analyst;
     - 👯 I'm specializing in MBA DevOps devSecOps cloud engineering;
   
 
