@@ -1,76 +1,78 @@
-
 # Paulo Alexandre Dias Farias
 
-### _Hi there 👋_
+### _Hi there 👋 Welcome to my GitHub!_
 
-<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=ecf05e47e8919723cba974ce3745352c73de740e04e7742f&rid=giphy.gif" width="450px" align="right">
 
-<p>  
-  
-I have a degree in systems analysis and development.
-    - 🌱 I am currently working as a Data engineering;
-    - 👯 I'm specializing in MBA Data, DevOps devSecOps cloud engineering;
-  
+I'm a **Data Engineer** passionate about building robust and scalable data pipelines in cloud environments. With a strong background in DevOps and Cloud Engineering, I bridge infrastructure and data to deliver real-time insights and business value.
 
-</p>
+- 🎓 Degree in Systems Analysis and Development  
+- 📊 Currently working as a **Data Engineer**  
+- 📚 Studying **MBA in Data, DevOps, DevSecOps & Cloud Engineering**  
+- ☁️ Experience with AWS, GCP, and Azure  
+- 🛠️ Automating data pipelines, monitoring and observability  
 
-<h1></h1>
+---
 
-### _Connect with me:_
-  
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-8b508a146/)
-  [![image](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pauloalexandre820@gmail.com)
-  
-<h1></h1>
+### 🌐 _Connect with me_
 
-### _Languages and Tools:_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-alexandre-8b508a146/)  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pauloalexandre820@gmail.com)
+
+---
+
+### 🚀 _Languages & Tools for Data Engineering_
 
 <p align="left">
- <a href="https://registry.terraform.io/" target="_blank"> 
-	<img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="40" height="40"/>
-</a>
-	
- <a href="https://kubernetes.io/pt-br/" target="_blank"> 
-	<img src="https://img.icons8.com/?size=256&id=cvzmaEA4kC0o&format=png" alt="Kubernets" width="40" height="40"/>
-</a>
-	
-<a href="https://cloud.google.com/docs?hl=pt-br" target="_blank"> 
-	<img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" alt="Google Cloud" width="40" height="40"/>
-</a>
-
-<a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank"> 
-	<img src="https://img.icons8.com/?size=512&id=81727&format=png" alt="Azure" width="40" height="40"/>
-</a>
-
-<a href="https://docs.oracle.com/en/java/" target="_blank"> 
-	<img src="https://img.icons8.com/?size=512&id=13679&format=png" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank"> 
-	<img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://flutter.dev/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
-</a>
-	<a href="https://nestjs.com/" target="_blank"> 
-	<img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
-</a>
-</a>
-	<a href="https://nodejs.org/en/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> 
-</a>
-
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40" alt="AWS"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" width="40" alt="GCP"/>
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" alt="Azure"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="40" alt="Python"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" alt="Apache Spark"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" alt="Apache Airflow"/>
+  </a>
+  <a href="https://www.databricks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Databricks_Logo.png" width="40" alt="Databricks"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="40" alt="Apache Kafka"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/terraform.png" width="40" alt="Terraform"/>
+  </a>
+  <a href="https://opensearch.org/" target="_blank">
+    <img src="https://opensearch.org/assets/media-kit/icon/opensearch-icon-blue.svg" width="40" alt="OpenSearch"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/grafana.png" width="40" alt="Grafana"/>
+  </a>
 </p>
+
+---
+
+### 📈 _GitHub Stats_
+
 <p>
   <a href="https://github.com/PAULOTEK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULOTEK&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULOTEK&layout=compact&theme=tokyonight" />
   </a>
-
   <a href="https://github.com/PAULOTEK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PAULOTEK&show_icons=true&theme=tokyonight&line_height=27" alt="Shubhamdeep's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PAULOTEK&show_icons=true&theme=tokyonight" />
   </a>
 </p>
+
+---
+
+🧠 _"Building data pipelines is not only about tools, but understanding the business and delivering insights at scale."_  
+— Paulo Alexandre
