@@ -8,8 +8,8 @@
 <p>  
   
 I have a degree in systems analysis and development.
-    - 🌱 I am currently working as a Sre DevOps Analyst;
-    - 👯 I'm specializing in MBA DevOps devSecOps cloud engineering;
+    - 🌱 I am currently working as a Data engineering;
+    - 👯 I'm specializing in MBA Data, DevOps devSecOps cloud engineering;
   
 
 </p>
@@ -64,21 +64,7 @@ I have a degree in systems analysis and development.
 	<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/> 
 </a>
 
-<a href="https://angular.io/guide/what-is-angular" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular" width="40" height="40"/> 
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/> 
-</a>
-
-
-<a href="https://www.w3schools.com/whatis/whatis_js.asp" target="_blank"> 
-	<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/
-</a>
-
 </p>
-
 <p>
   <a href="https://github.com/PAULOTEK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAULOTEK&&langs_count=3&theme=tokyonight&hide_langs_below=1" />
