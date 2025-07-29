@@ -43,7 +43,7 @@ I'm a **Data Engineer** passionate about building robust and scalable data pipel
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" alt="Apache Airflow"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Databricks_Logo.png" width="40" alt="Databricks"/>
+    <img src="https://cdn.brandfetch.io/idSUrLOWbH/w/800/h/840/theme/dark/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1668081624532" width="40" alt="Databricks"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="40" alt="Apache Kafka"/>
