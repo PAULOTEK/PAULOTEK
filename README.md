@@ -27,7 +27,7 @@ I have a degree in systems analysis and development.
 
 <p align="left">
  <a href="https://registry.terraform.io/" target="_blank"> 
-	<img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-455x512-csyun60o.png" alt="Terraform" width="40" height="40"/>
+	<img src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000" alt="Terraform" width="40" height="40"/>
 </a>
 	
  <a href="https://kubernetes.io/pt-br/" target="_blank"> 
