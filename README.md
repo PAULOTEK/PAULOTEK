@@ -61,6 +61,23 @@ I'm a **Data Engineer** passionate about building robust and scalable data pipel
     <img src="https://img.icons8.com/color/48/000000/grafana.png" width="40" alt="Grafana"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://mariadb.org/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" width="40" alt="MariaDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/postgreesql.png" width="40" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/mongodb.png" width="40" alt="MongoDB"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
+    <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" alt="SQL Server"/>
+  </a>
+ </p>
 
 ---
 
