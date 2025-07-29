@@ -37,22 +37,25 @@ I'm a **Data Engineer** passionate about building robust and scalable data pipel
     <img src="https://img.icons8.com/color/48/000000/python.png" width="40" alt="Python"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" alt="Apache Spark"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="60" alt="Apache Spark"/>
   </a>
   <a href="https://airflow.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="40" alt="Apache Airflow"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="60" alt="Apache Airflow"/>
   </a>
   <a href="https://www.databricks.com/" target="_blank">
     <img src="https://cdn.brandfetch.io/idSUrLOWbH/w/800/h/840/theme/dark/symbol.png?c=1bxid64Mup7aczewSAYMX&t=1668081624532" width="40" alt="Databricks"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="40" alt="Apache Kafka"/>
+    <img src="https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000" width="40" alt="Apache Kafka"/>
   </a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/terraform.png" width="40" alt="Terraform"/>
   </a>
   <a href="https://opensearch.org/" target="_blank">
-    <img src="https://opensearch.org/assets/media-kit/icon/opensearch-icon-blue.svg" width="40" alt="OpenSearch"/>
+    <img src="https://github.com/user-attachments/assets/55673226-1672-4eea-a6eb-a36fe9e32628" width="40" alt="OpenSearch"/>
+  </a>
+  <a href="https://www.elastic.co/pt/kibana" target="_blank">
+    <img src="https://github.com/user-attachments/assets/91333907-bade-4dab-8dac-fb06d0e44e10" width="40" alt="Kibana"/>
   </a>
   <a href="https://grafana.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/grafana.png" width="40" alt="Grafana"/>
