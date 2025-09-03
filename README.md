@@ -8,7 +8,7 @@ I'm a **Data Engineer** passionate about building robust and scalable data pipel
 
 - 🎓 Degree in Systems Analysis and Development  
 - 📊 Currently working as a **Data Engineer**  
-- 📚 Studying **MBA in Data, DevOps, DevSecOps & Cloud Engineering**  
+- 📚 Studying **MBA in Data, DevOps & Cloud Engineering**  
 - ☁️ Experience with AWS, GCP, and Azure  
 - 🛠️ Automating data pipelines, monitoring and observability  
 
